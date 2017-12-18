@@ -1,0 +1,102 @@
+Zakonczono proces uczenia
+Kwiatek o dzialce kielicha dlugosci: 0.9402493452023382, i szerokosci: 0.01819392974971723a takze o dlugosci platka rownej: 0.7252729061453496 i szerokosci: 0.8320176790727504 
+Kwiatek o dzialce kielicha dlugosci: 0.2209399755895347, i szerokosci: 0.5933778887518447a takze o dlugosci platka rownej: 0.11952811535265206 i szerokosci: 0.8158333951233693 
+Kwiatek o dzialce kielicha dlugosci: 0.378728613927509, i szerokosci: 0.6546553928199249a takze o dlugosci platka rownej: 0.8120195084123729 i szerokosci: 0.8117349349424317 
+Kwiatek o dzialce kielicha dlugosci: 0.5243947483824583, i szerokosci: 0.7831457252968372a takze o dlugosci platka rownej: 0.7434194224064633 i szerokosci: 0.619176552646108 
+Kwiatek o dzialce kielicha dlugosci: 0.10084884518941173, i szerokosci: 0.9061263659119485a takze o dlugosci platka rownej: 0.12972455589257448 i szerokosci: 0.9625898957981772
+Kwiatek o dzialce kielicha dlugosci: 0.09832429875631243, i szerokosci: 0.22055142461196398a takze o dlugosci platka rownej: 0.5761050587231459 i szerokosci: 0.33666537877238845
+Kwiatek o dzialce kielicha dlugosci: 0.6664701779251835, i szerokosci: 0.8580830575700698a takze o dlugosci platka rownej: 0.3235708978035394 i szerokosci: 0.8096535935898036 
+Kwiatek o dzialce kielicha dlugosci: 0.8503045720599924, i szerokosci: 0.6379804329981517a takze o dlugosci platka rownej: 0.6351997322262969 i szerokosci: 0.7584724361854315 
+Kwiatek o dzialce kielicha dlugosci: 0.588120114720712, i szerokosci: 0.9231350452866692a takze o dlugosci platka rownej: 0.06792888133910202 i szerokosci: 0.6314755184301202 
+Kwiatek o dzialce kielicha dlugosci: 0.4268170004666021, i szerokosci: 0.41973727000737227a takze o dlugosci platka rownej: 0.5214210421156299 i szerokosci: 0.6130579623703405
+Kwiatek o dzialce kielicha dlugosci: 0.633770741815136, i szerokosci: 0.7425040739067092a takze o dlugosci platka rownej: 0.5072715173811321 i szerokosci: 0.49884578996889073 
+Kwiatek o dzialce kielicha dlugosci: 0.5142253466240417, i szerokosci: 0.7050929054830695a takze o dlugosci platka rownej: 0.039833153643781594 i szerokosci: 0.18103578280799304 
+Kwiatek o dzialce kielicha dlugosci: 0.7793352810872874, i szerokosci: 0.5892727381369776a takze o dlugosci platka rownej: 0.9141915723126701 i szerokosci: 0.8905225059447469 
+Kwiatek o dzialce kielicha dlugosci: 0.7523621608914425, i szerokosci: 0.09661773933236717a takze o dlugosci platka rownej: 0.907332841251517 i szerokosci: 0.7457700459337625 
+Kwiatek o dzialce kielicha dlugosci: 0.04916510440733268, i szerokosci: 0.29293474811577946a takze o dlugosci platka rownej: 0.6153020078196363 i szerokosci: 0.21795575918581067 
+Kwiatek o dzialce kielicha dlugosci: 0.12400664005844075, i szerokosci: 0.6183315868251709a takze o dlugosci platka rownej: 0.22215963673558536 i szerokosci: 0.8377342431921495 
+Kwiatek o dzialce kielicha dlugosci: 0.7328284636714482, i szerokosci: 0.9547772439276793a takze o dlugosci platka rownej: 0.48580110488665673 i szerokosci: 0.8410394902295233 
+Kwiatek o dzialce kielicha dlugosci: 0.9335346658906172, i szerokosci: 0.8182017034115324a takze o dlugosci platka rownej: 0.6212110330872278 i szerokosci: 0.4796637875285935 
+Kwiatek o dzialce kielicha dlugosci: 0.7164522829696259, i szerokosci: 0.9736273721090403a takze o dlugosci platka rownej: 0.5634831797841697 i szerokosci: 0.40692240606211394 
+Kwiatek o dzialce kielicha dlugosci: 0.7380225208254507, i szerokosci: 0.1595202145994854a takze o dlugosci platka rownej: 0.30094416030062354 i szerokosci: 0.8895330101525145 
+Kwiatek o dzialce kielicha dlugosci: 0.9169080799399295, i szerokosci: 0.151493448467932a takze o dlugosci platka rownej: 0.5829764890226794 i szerokosci: 0.5939092439069166 
+Kwiatek o dzialce kielicha dlugosci: 0.8440854838452063, i szerokosci: 0.0956922009515575a takze o dlugosci platka rownej: 0.3276452041642395 i szerokosci: 0.34838848221220675 
+Kwiatek o dzialce kielicha dlugosci: 0.05712351922148817, i szerokosci: 0.8986327936042843a takze o dlugosci platka rownej: 0.48098932792886373 i szerokosci: 0.5924835882102262
+Kwiatek o dzialce kielicha dlugosci: 0.23373245367381845, i szerokosci: 0.47296573668694275a takze o dlugosci platka rownej: 0.9128476192559223 i szerokosci: 0.19006926044531325 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.27080053839968, i szerokosci: 0.8075767070148879a takze o dlugosci platka rownej: 0.17334583786301938 i szerokosci: 0.9054835570068046 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.0325180779956703, i szerokosci: 0.15563497548534855a takze o dlugosci platka rownej: 0.579680593419213 i szerokosci: 0.11984568777402116 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.2748215717075332, i szerokosci: 0.11564450970692941a takze o dlugosci platka rownej: 0.15459245967732604 i szerokosci: 0.29946148385734206 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.8832733197764958, i szerokosci: 0.018247708639367755a takze o dlugosci platka rownej: 0.3959290310085588 i szerokosci: 0.31900792160341207 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.09762499814131098, i szerokosci: 0.8254774564807859a takze o dlugosci platka rownej: 0.7209565111815079 i szerokosci: 0.9892590978044987 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.838696051143011, i szerokosci: 0.699348481700813a takze o dlugosci platka rownej: 0.6995859235850374 i szerokosci: 0.04243544081249839 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6018310784839891, i szerokosci: 0.5031239188145454a takze o dlugosci platka rownej: 0.8674380422822126 i szerokosci: 0.3878291710776396 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.636082658055567, i szerokosci: 0.7612887767242487a takze o dlugosci platka rownej: 0.9926790235507775 i szerokosci: 0.6661786371411524 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.2893995451474941, i szerokosci: 0.023207123798718476a takze o dlugosci platka rownej: 0.1598162891004935 i szerokosci: 0.003334906024890172 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.4674820599659162, i szerokosci: 0.15063505568051372a takze o dlugosci platka rownej: 0.9291523839298893 i szerokosci: 0.3920839729304596 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.12760035519657065, i szerokosci: 0.780706723393734a takze o dlugosci platka rownej: 0.1323518434808134 i szerokosci: 0.31555863449965227 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.608553269255415, i szerokosci: 0.10370653722192247a takze o dlugosci platka rownej: 0.572584493519572 i szerokosci: 0.06649389287608753 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.3840784947936644, i szerokosci: 0.13888520378720481a takze o dlugosci platka rownej: 0.011965926251177317 i szerokosci: 0.7136506913982757 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.5194079318986586, i szerokosci: 0.8917733012062572a takze o dlugosci platka rownej: 0.3495240102034666 i szerokosci: 0.8200524874644651 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.7092943826805919, i szerokosci: 0.13289078910316654a takze o dlugosci platka rownej: 0.8196780222088479 i szerokosci: 0.8272498642126729 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.2807189368949671, i szerokosci: 0.050446570809500435a takze o dlugosci platka rownej: 0.3742245310782809 i szerokosci: 0.4856485800391014 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.9546210217067043, i szerokosci: 0.6985676331734368a takze o dlugosci platka rownej: 0.15008288521163948 i szerokosci: 0.8330067645823073 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.4783762304389132, i szerokosci: 0.9877918783931292a takze o dlugosci platka rownej: 0.07055933513052615 i szerokosci: 0.0015271979139345193 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.46437903623738364, i szerokosci: 0.9460050355796858a takze o dlugosci platka rownej: 0.17964856623001413 i szerokosci: 0.5685412182355422 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.8999715407705029, i szerokosci: 0.11569677869140338a takze o dlugosci platka rownej: 0.26689770847774674 i szerokosci: 0.2566006747979479 pobudzil   2 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.8300910350252229, i szerokosci: 0.2473564235222997a takze o dlugosci platka rownej: 0.7046163609812683 i szerokosci: 0.5358650118541984 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6563927249931043, i szerokosci: 0.8990242699698868a takze o dlugosci platka rownej: 0.1897240188790833 i szerokosci: 0.08499079943336008 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.3452364895317903, i szerokosci: 0.15845976866940503a takze o dlugosci platka rownej: 0.2592839947249075 i szerokosci: 0.12630117520769268 pobudzil   2 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.5918093320410247, i szerokosci: 0.4670828938166389a takze o dlugosci platka rownej: 0.03178044172439132 i szerokosci: 0.3668331757552379 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.6487882171050435, i szerokosci: 0.4437905158182599a takze o dlugosci platka rownej: 0.6154535592386853 i szerokosci: 0.6489311743435106 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.09533048796560595, i szerokosci: 0.6819451585050541a takze o dlugosci platka rownej: 0.020515137506106118 i szerokosci: 0.44237493380335835 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.29581203897990427, i szerokosci: 0.7242781486299983a takze o dlugosci platka rownej: 0.21382506506898769 i szerokosci: 0.9946011122239983 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.6776164071490939, i szerokosci: 0.8081452938426877a takze o dlugosci platka rownej: 0.16261668612553182 i szerokosci: 0.29639732177261824 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.2434104268355749, i szerokosci: 0.5175179386565095a takze o dlugosci platka rownej: 0.32811716132794433 i szerokosci: 0.017518334947968506 pobudzil   1 i 0
+Kwiatek o dzialce kielicha dlugosci: 0.9257248814843108, i szerokosci: 0.1782876769712448a takze o dlugosci platka rownej: 0.09041633216858114 i szerokosci: 0.21999407256365489 pobudzil   2 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.4902919835485916, i szerokosci: 0.6899088464582479a takze o dlugosci platka rownej: 0.01269607239546 i szerokosci: 0.9664695473976853 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.6994736115451321, i szerokosci: 0.49909710839542065a takze o dlugosci platka rownej: 0.6859389582613556 i szerokosci: 0.9067371124728841 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.35824731110487484, i szerokosci: 0.5902490688776901a takze o dlugosci platka rownej: 0.13449411753403406 i szerokosci: 0.5476917842956603 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6826001713700516, i szerokosci: 0.6924422255517071a takze o dlugosci platka rownej: 0.40838448220162393 i szerokosci: 0.1902606320434852 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.15381302935338348, i szerokosci: 0.38432017891549186a takze o dlugosci platka rownej: 0.03999910864372147 i szerokosci: 0.45142751187517727 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.6520004783344159, i szerokosci: 0.4158634492616917a takze o dlugosci platka rownej: 0.5008204683167161 i szerokosci: 0.8802949451555093 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.1984051020616635, i szerokosci: 0.35999141932929024a takze o dlugosci platka rownej: 0.658095641987814 i szerokosci: 0.42419496027981773 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.07832703074239245, i szerokosci: 0.6571363256978668a takze o dlugosci platka rownej: 0.5018674922817014 i szerokosci: 0.4041812532341891 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.46520252615074, i szerokosci: 0.2223752677655535a takze o dlugosci platka rownej: 0.0895398398869165 i szerokosci: 0.21880517796274424 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.921228552024051, i szerokosci: 0.04740203918608965a takze o dlugosci platka rownej: 0.7381585490372651 i szerokosci: 0.2108986139947545 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.31106280133996334, i szerokosci: 0.6485653949601716a takze o dlugosci platka rownej: 0.9838484911567716 i szerokosci: 0.004156766639979659 pobudzil   1 i 0
+Kwiatek o dzialce kielicha dlugosci: 0.7325115516599823, i szerokosci: 0.7873958318128368a takze o dlugosci platka rownej: 0.7233533799394806 i szerokosci: 0.14463443276851085 pobudzil   1 i 0
+Kwiatek o dzialce kielicha dlugosci: 0.04175039254145396, i szerokosci: 0.6214885436001214a takze o dlugosci platka rownej: 0.25438422824389495 i szerokosci: 0.0668397955190213 pobudzil   1 i 0
+Kwiatek o dzialce kielicha dlugosci: 0.4305059707100588, i szerokosci: 0.33130497850152674a takze o dlugosci platka rownej: 0.6394894483651469 i szerokosci: 0.24492952995932193 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.2987594308713989, i szerokosci: 0.3124013674255126a takze o dlugosci platka rownej: 0.9324174588663738 i szerokosci: 0.886580054522704 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.35891532521121206, i szerokosci: 0.22278734409869694a takze o dlugosci platka rownej: 0.3264505516635955 i szerokosci: 0.6804293485444152 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.5060119773765555, i szerokosci: 0.5315634973940295a takze o dlugosci platka rownej: 0.2109468167737636 i szerokosci: 0.9175548248546859 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.493433194945864, i szerokosci: 0.7276818060558574a takze o dlugosci platka rownej: 0.4553342100827722 i szerokosci: 0.7732721838052986 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.8647127749682512, i szerokosci: 0.01661817996087689a takze o dlugosci platka rownej: 0.979059110203755 i szerokosci: 0.6576114830886624 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.9094069551336289, i szerokosci: 0.15794191942509728a takze o dlugosci platka rownej: 0.811499438958685 i szerokosci: 0.3211459619498026 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6346423565546151, i szerokosci: 0.07821170214218132a takze o dlugosci platka rownej: 0.39761001855948486 i szerokosci: 0.837420303392198 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.8738301142601826, i szerokosci: 0.031323817181624136a takze o dlugosci platka rownej: 0.863075828729187 i szerokosci: 0.6740447999883238 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6901690846860447, i szerokosci: 0.3723827025457982a takze o dlugosci platka rownej: 0.31700686606245176 i szerokosci: 0.8115924536923156 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.1749446398836545, i szerokosci: 0.46135996846046956a takze o dlugosci platka rownej: 0.0407152931920266 i szerokosci: 0.272756329632902 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.5892618044401274, i szerokosci: 0.8192529928194067a takze o dlugosci platka rownej: 0.5878747452566513 i szerokosci: 0.4837946025477958 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.5527342705539899, i szerokosci: 0.4221496014560271a takze o dlugosci platka rownej: 0.40436782035006613 i szerokosci: 0.6061113975618174 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.643784258555727, i szerokosci: 0.9375506385225559a takze o dlugosci platka rownej: 0.5653871626567002 i szerokosci: 0.3478914380091338 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.3435901882350585, i szerokosci: 0.7824974657257217a takze o dlugosci platka rownej: 0.6228622658886351 i szerokosci: 0.7940271769724022 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.729352462254715, i szerokosci: 0.11449702073009149a takze o dlugosci platka rownej: 0.3580423974591759 i szerokosci: 0.47714717995497447 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.7024304293445657, i szerokosci: 0.25393186730634343a takze o dlugosci platka rownej: 0.4420737843982405 i szerokosci: 0.25337493768630537 pobudzil   2 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.82303622401396, i szerokosci: 0.5805887391323356a takze o dlugosci platka rownej: 0.6216670659849081 i szerokosci: 0.5435174989446868 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.01555405862425463, i szerokosci: 0.6471333906140274a takze o dlugosci platka rownej: 0.06745869251844083 i szerokosci: 0.1537038152037099 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.5071863897056679, i szerokosci: 0.10880596618074034a takze o dlugosci platka rownej: 0.949427866704611 i szerokosci: 0.19906285602067064 pobudzil   0 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.3675114169002318, i szerokosci: 0.08130550130673131a takze o dlugosci platka rownej: 0.13673844107249322 i szerokosci: 0.6198517887178375 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.9276684971797808, i szerokosci: 0.7077781353961294a takze o dlugosci platka rownej: 0.1586329463615287 i szerokosci: 0.40151499687502235 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.17527186182667331, i szerokosci: 0.04101834722264541a takze o dlugosci platka rownej: 0.20851370643541622 i szerokosci: 0.8884751265298526 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.9447847539826603, i szerokosci: 0.8284385361353442a takze o dlugosci platka rownej: 0.02510398870335162 i szerokosci: 0.5160271454275759 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.3529700370012653, i szerokosci: 0.42505685471583887a takze o dlugosci platka rownej: 0.9425898088185012 i szerokosci: 0.8755274567214378 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.46516501783517883, i szerokosci: 0.8536989289014093a takze o dlugosci platka rownej: 0.2659005184911425 i szerokosci: 0.2751397717909768 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6205120065892463, i szerokosci: 0.9818045641624465a takze o dlugosci platka rownej: 0.3977950265064597 i szerokosci: 0.861719967394313 pobudzil   0 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.19290832748599562, i szerokosci: 0.8906752543041321a takze o dlugosci platka rownej: 0.8211772168237237 i szerokosci: 0.9289929043528989 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.8193225218124054, i szerokosci: 0.775694309409282a takze o dlugosci platka rownej: 0.1230726337506286 i szerokosci: 0.25299358886016343 pobudzil   3 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.2882562819613327, i szerokosci: 0.13499612345095824a takze o dlugosci platka rownej: 0.7359561353260362 i szerokosci: 0.16781624255287286 pobudzil   3 i 2
+Kwiatek o dzialce kielicha dlugosci: 0.3485146297800339, i szerokosci: 0.5792570433771483a takze o dlugosci platka rownej: 0.967628134496873 i szerokosci: 0.6230347887501205 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.6720791825276737, i szerokosci: 0.32672485740119317a takze o dlugosci platka rownej: 0.19259441897540908 i szerokosci: 0.6487283008541571 pobudzil   3 i 1
+Kwiatek o dzialce kielicha dlugosci: 0.08476292827108545, i szerokosci: 0.3353001008552484a takze o dlugosci platka rownej: 0.7859130784451539 i szerokosci: 0.4948660484940992 pobudzil   3 i 1
+
